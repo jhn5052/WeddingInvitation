@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath:'/wedding-invitation',
+    publicPath:'./wedding-invitation',
     outputDir:'./docs',
 }
